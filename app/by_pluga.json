@@ -1,0 +1,20 @@
+{
+  "name":"Webhook by Pluga",
+  "app_id":"by_pluga",
+  "color":"#00a8f9",
+  "description":{
+    "pt_BR":"Descrição webhook by pluga.",
+    "en":""
+  },
+  "website":"https://pluga.co",
+  "signup_url":"https://manage.pluga.co/#/signup",
+  "api_base_uri":{
+    "production":{
+      "uri":"https://pluga.co",
+      "label":"Produção"
+    }
+  },
+  "authentication":{
+    "type":"no_auth"
+  }
+}
