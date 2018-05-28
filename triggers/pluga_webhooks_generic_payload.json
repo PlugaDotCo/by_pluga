@@ -1,12 +1,12 @@
 {
   "name":{
     "pt_BR":"Payload genérico",
-    "en":""
+    "en":"Generic Payload"
   },
   "trigger_key":"generic_payload",
   "description":{
-    "pt_BR":"Quando a Pluga receber uma nova informação",
-    "en":""
+    "pt_BR":"Quando o Pluga Webhooks receber uma notificação da sua ferramenta",
+    "en":"When Pluga Webhooks receives a notification from your web app"
   },
   "trigger_fields": {
     "type": "remote",
@@ -15,10 +15,10 @@
   "configuration_fields": [
     {
       "key": "payload_schema",
-      "name": {"pt_BR": "Schema do webhook"},
-      "description": {"pt_BR": "Descrição schema webhook"},
-      "label": {"pt_BR": "Label do schema do webhook"},
-      "placeholder": {"pt_BR": "Placeholder"},
+      "name": {"pt_BR": "Exemplo de notificação"},
+      "description": {"pt_BR": "Exemplo de notificação JSON que sua ferramenta vai enviar para a Pluga."},
+      "label": {"pt_BR": "Exemplo de notificação"},
+      "placeholder": {"pt_BR": ""},
       "required": true,
       "visible": true,
       "field_type": "custom_webhook_textarea",
