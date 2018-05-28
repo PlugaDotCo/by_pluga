@@ -1,6 +1,6 @@
 {
   "name":"Webhook by Pluga",
-  "app_id":"by_pluga",
+  "app_id":"pluga_webhooks",
   "color":"#00a8f9",
   "description":{
     "pt_BR":"Descrição webhook by pluga.",
