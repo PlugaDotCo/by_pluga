@@ -1,0 +1,20 @@
+{
+  "name":"Pluga Webhooks",
+  "app_id":"pluga_webhooks",
+  "color":"#00a8f9",
+  "description":{
+    "pt_BR":"Movimente seus dados instantâneamente entre as ferramentas web ou sistemas que você usa através do Pluga Webhooks. Envie dados de qualquer lugar (ferramenta web ou sistema próprio) para os Webhooks (URL) da Pluga e automatize suas tarefas.",
+    "en":""
+  },
+  "website":"https://pluga.co",
+  "signup_url":"https://manage.pluga.co/#/signup",
+  "api_base_uri":{
+    "production":{
+      "uri":"https://pluga.co",
+      "label":"Produção"
+    }
+  },
+  "authentication":{
+    "type":"no_auth"
+  }
+}
