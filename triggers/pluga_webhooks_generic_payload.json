@@ -15,9 +15,9 @@
   "configuration_fields": [
     {
       "key": "payload_schema",
-      "name": {"pt_BR": "Exemplo de notificação"},
-      "description": {"pt_BR": "Exemplo de notificação JSON que sua ferramenta vai enviar para a Pluga."},
-      "label": {"pt_BR": "Exemplo de notificação"},
+      "name": {"pt_BR": "Modelo de envio dos dados para notificação"},
+      "description": {"pt_BR": "Insira no campo abaixo, um modelo de dados (em JSON) que sua ferramenta irá enviar para a Pluga, notificando seu Pluga Webhook. Veja como é feito no exemplo (dentro do campo)."},
+      "label": {"pt_BR": "Modelo de envio dos dados para notificação"},
       "placeholder": {"pt_BR": ""},
       "required": true,
       "visible": true,
